@@ -69,3 +69,6 @@ archive*/
 
 # html files
 *.html
+
+#ignore todolist folder
+todos.md
